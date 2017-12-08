@@ -28,7 +28,7 @@ This will also serve as a testbed for unguided / non-toutorial based learing of 
 * Use these as a basis of making the cluster/pipeline/workflow better
     * Service Mesh
         * in-transit encryption
-        * cannary builds
+        * cannary deployments
     * Monitoring
     * properly size the pods
         
