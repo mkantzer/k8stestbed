@@ -18,7 +18,8 @@ This will also serve as a testbed for unguided / non-toutorial based learing of 
 * maybe fool around with different contianer runtimes?
 * Minikube for local dev?
 * Microservices:
-    * write in GO, package into from scratch docker contianers
+    * write in GO, 
+    * package into from scratch docker contianers
     * Start with a Hello World webservice, proof of concepting
     * Branch out from there
     * add microservices that the helloworld endpoint will reference to get more information
