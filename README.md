@@ -32,3 +32,6 @@ This will also serve as a testbed for unguided / non-toutorial based learing of 
     * Monitoring
     * properly size the pods
         
+
+* maybe try some machine learning later?
+* put results of CI pipeline / load testing into the PR lines, so that 'developers' can see differences without loggin into another tool
