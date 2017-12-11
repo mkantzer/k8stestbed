@@ -31,6 +31,10 @@ This will also serve as a testbed for unguided / non-toutorial based learing of 
         * cannary deployments
     * Monitoring
     * properly size the pods
+
+
+* CI pipleine: include squeeze/load testing, put results into PR so that 'devs' can see impact & pass / fail without loggin into another app
+*  maybe try out some machine learning somewhere (way down the line...)
         
 
 * maybe try some machine learning later?
