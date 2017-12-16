@@ -8,10 +8,12 @@ This will also serve as a testbed for unguided / non-toutorial based learing of 
 
 
 ## Project plan:
+
 * Stand up GKE cluster (dont need anything too crazy here)
 * Helm charts for templatization
-* CI/CD pipeline: 
-    * not sure yet which tool to use, but likely a free tier. 
+* CI/CD pipeline:
+    * not sure yet which tool to use, but likely a free tier.
+        * Honestly, its probably going to be drone.io
     * All work will go through this
     * its going to end up being pretty complicated, as I'm working on a mono-repo concept here.
     * Probably NOT use the box-method where you have a seperate repo of 'current state', although that could be added later
