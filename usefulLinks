@@ -3,3 +3,6 @@ https://outcrawl.com/getting-started-microservices-go-grpc-kubernetes/
 
 shipping go contianers:
 https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/
+
+setting up the repo and other things:
+https://peter.bourgon.org/go-best-practices-2016/#repository-structure

@@ -1,6 +1,5 @@
 // starting out with a small program that just prints
-// to the command line. This will eventually be extended into
-// a webserver microservice to serve along network
+// to the command line, as proof of repo structure
 
 package main
 
