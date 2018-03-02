@@ -1,3 +1,5 @@
+//Package for handling player data
+
 package players
 
 //Player is a structure that includes a name and a slice of struct Seasons
