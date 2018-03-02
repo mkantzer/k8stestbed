@@ -16,5 +16,3 @@ type Player struct {
 		}
 	}
 }
-
-func AppendSeason
