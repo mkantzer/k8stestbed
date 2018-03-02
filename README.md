@@ -7,6 +7,14 @@ The general plan for this project is to set up a minimal cluster within GKE, and
 This will also serve as a testbed for unguided / non-toutorial based learing of golang. 
 
 
+## Project Idea:
+
+In need of a basic idea for a set of microservices, I'm settling on:
+* Scrape baseball-reference.com (or something similar) for stats on a single player (for now)
+* Store this data (initially in memory, but when expanding, will need a database?)
+* display this data in a web-app (RBIs per year graph or something)
+
+
 ## Project plan:
 
 * Stand up GKE cluster (dont need anything too crazy here)
