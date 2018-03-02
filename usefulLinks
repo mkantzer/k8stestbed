@@ -6,3 +6,6 @@ https://blog.codeship.com/building-minimal-docker-containers-for-go-applications
 
 setting up the repo and other things:
 https://peter.bourgon.org/go-best-practices-2016/#repository-structure
+
+building a web app:
+https://github.com/astaxie/build-web-application-with-golang/blob/master/en/01.3.md
