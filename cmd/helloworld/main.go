@@ -4,7 +4,7 @@
 package main
 
 import (
-	players "github.com/mkantzer/k8stestbed/pkg/players"
+	players "github.com/mkantzer/k8stestbed/pkg/players/players"
 )
 
 func main() {
